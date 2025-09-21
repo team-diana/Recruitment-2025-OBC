@@ -8,12 +8,13 @@ by finding the shortest path to get to the airport?
 
 ## Instructions
 You are provided with the file `runwayRush.cpp`, containing the function to generate the map, which is written to a .txt
-file as a matrix of positive integers, and a general structure to follow. 
+file as a matrix of positive integers, and a general structure to follow, with several test cases to pass. 
 In the generated map, the starting point is always the top-left square, and the destination is always the bottom-right
 square, both marked with a '0'. From each square, you are only allowed to move down or right. Implement the function 
 `findShortestPath()`, which must find the shortest path between the starting point and the destination, where the shortest
 path is defined as the one that minimizes the sum of the values of the squares making it up, print the sequence of moves making up 
-said path, marking the moves with 'r' for right moves and 'd' for down moves, separated by spaces, and return the total traversal time of the found route.
+said path, marking the moves with 'r' for right moves and 'd' for down moves, separated by spaces (e.g. Move sequence: d r d r), 
+and return the total traversal time of the found route.
 You are free to define and use other functions, if deemed necessary. You aren't allowed to delete or otherwise modify the
 provided code (except the findShortestPath() prototype and call, in which you can add parameters), but you may, 
 if necessary, add statements in between the pre-written lines in the main
