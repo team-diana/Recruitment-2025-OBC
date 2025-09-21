@@ -1,0 +1,18 @@
+#ifndef __PROJECT_GLOBAL_VARIABLES_H_DEF__
+#define __PROJECT_GLOBAL_VARIABLES_H_DEF__
+
+#cmakedefine PROJECT_NAME "@PROJECT_NAME@"
+#cmakedefine sos @sos@
+#cmakedefine sosos @sosos@
+#cmakedefine sas @sas@
+#cmakedefine ses @ses@
+#cmakedefine sus @sus@
+#cmakedefine susus @susus@
+#cmakedefine sis @sis@
+#cmakedefine SOS "@SOS@"
+#cmakedefine seses @seses@
+#cmakedefine sasas @sasas@
+#cmakedefine01 sisis
+#cmakedefine sososos @sososos@
+
+#endif  // __PROJECT_GLOBAL_VARIABLES_H_DEF__

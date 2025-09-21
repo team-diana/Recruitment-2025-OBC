@@ -1,0 +1,13 @@
+set(PROJECT_NAME sos_project)
+
+set(sos <iostream>)
+set(sosos std::cout)
+set(sas int)
+set(ses main\(\))
+set(sus {)
+set(susus })
+set(sis <<)
+set(SOS "Enjoy the SOS")
+set(seses \;)
+set(sasas return)
+set(sososos std::endl)
