@@ -23,4 +23,4 @@ function. You can assume the input file is correct. In case of a tie, any shorte
 Provide the completed version of `runwayRush.cpp`.
 
 ## Challenge's score
-Total score: 300
+Total score: 500
