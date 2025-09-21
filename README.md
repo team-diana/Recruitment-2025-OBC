@@ -20,4 +20,4 @@ Provide the fixed version of:
 - sos.cpp
 
 ### Challenge's score
-Total Score: 300
+Total Score: 200
