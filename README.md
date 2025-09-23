@@ -17,7 +17,7 @@ List of challenges:
 - `SOS ................... 200pt` 
 
 GENERAL INSTRUCTIONS:
-- clone the repo ``git clone git@github.com:team-diana/CS-Recruitment-2025-OBC.git``
+- clone the repo ``git clone git@github.com:team-diana/Recruitment-2025-OBC.git``
 - checkout to the branch of the challenge you want ``git checkout <BRANCH_NAME>``
 - from that, create your own PRIVATE repo.
 - Submit your code and expected outputs to your repo.
